@@ -1,4 +1,4 @@
-# Neural Networks with Numpy
+# Neural Networks with NumPy
 
 A neural network is a computational model inspired by the way biological neural networks in the human brain work. It consists of interconnected nodes, called neurons or artificial neurons, organized into layers. These layers can be broadly categorized into three types: input layer, hidden layers, and output layer.
 
